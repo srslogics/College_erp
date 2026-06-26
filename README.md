@@ -7,6 +7,7 @@ Live files served from `site/`:
 - `index.html` redirects to `ife-erp-presentation.html`
 - `ife-erp-presentation.html`
 - `ife-executive-deep-dive.html`
+- `health.html`
 
 Render setup:
 
