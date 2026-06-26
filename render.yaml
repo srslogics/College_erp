@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ife-erp-presentations
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./site
